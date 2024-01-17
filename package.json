@@ -1,0 +1,18 @@
+{
+  "name": "www.nfd.gg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.htm",
+  "scripts": {
+    "start": "index.htm"
+    
+  }
+  
+  ,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
